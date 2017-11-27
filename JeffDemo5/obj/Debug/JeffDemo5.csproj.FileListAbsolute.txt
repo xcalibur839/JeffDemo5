@@ -5,3 +5,10 @@ C:\Users\Mike\Source\Repos\JeffDemo5\JeffDemo5\obj\Debug\JeffDemo5.csprojResolve
 C:\Users\Mike\Source\Repos\JeffDemo5\JeffDemo5\obj\Debug\JeffDemo5.csproj.CoreCompileInputs.cache
 C:\Users\Mike\Source\Repos\JeffDemo5\JeffDemo5\obj\Debug\JeffDemo5.exe
 C:\Users\Mike\Source\Repos\JeffDemo5\JeffDemo5\obj\Debug\JeffDemo5.pdb
+C:\Users\Mike\playground\code\JeffDemo5\JeffDemo5\bin\Debug\JeffDemo5.exe.config
+C:\Users\Mike\playground\code\JeffDemo5\JeffDemo5\bin\Debug\JeffDemo5.exe
+C:\Users\Mike\playground\code\JeffDemo5\JeffDemo5\bin\Debug\JeffDemo5.pdb
+C:\Users\Mike\playground\code\JeffDemo5\JeffDemo5\obj\Debug\JeffDemo5.csprojResolveAssemblyReference.cache
+C:\Users\Mike\playground\code\JeffDemo5\JeffDemo5\obj\Debug\JeffDemo5.csproj.CoreCompileInputs.cache
+C:\Users\Mike\playground\code\JeffDemo5\JeffDemo5\obj\Debug\JeffDemo5.exe
+C:\Users\Mike\playground\code\JeffDemo5\JeffDemo5\obj\Debug\JeffDemo5.pdb

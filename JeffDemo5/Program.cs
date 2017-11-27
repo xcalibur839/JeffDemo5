@@ -20,6 +20,14 @@ namespace JeffDemo5
             }
             Console.WriteLine("No more arguments");
 
+            //Demonstrate how to keep asking for input until the input is valid.
+            Console.WriteLine("Please enter a number");
+
+            while(!int.TryParse(Console.ReadLine(), out loopCount)) 
+            {
+                Console.WriteLine("Please enter numbers only");
+            }
+
             while(loopCount > 0) //Use this opportunity to demonstrate endless loops by not satisfying the condition at first. 
                                  //See if he can figure out how to terminate the loop on his own.
                                  //May also want to demonstrate != vs. > by decrementing loopCount by values other than 1.
